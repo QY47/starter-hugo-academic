@@ -69,7 +69,7 @@ education:
   # link: CV_Yuan.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'qyuan@amss.ac.cn'
+# email: 'qyuan@amss.ac.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
