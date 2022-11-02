@@ -10,7 +10,7 @@ last_name: Yuan
 superuser: true
 
 # Role/position/tagline
-role: Assistant professor
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
