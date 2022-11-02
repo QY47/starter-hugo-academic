@@ -31,10 +31,10 @@ education:
       institution: The Chinese University of Hong Kong, Hong Kong, China
       year: 2019
     - course: MS in Mathematics
-      institution: Nanjing University, China
+      institution: Nanjing University, Nanjing, China
       year: 2016
     - course: BS in Mathematics
-      institution: Nanjing University, China
+      institution: Nanjing University, Nanjing, China
       year: 2012
 
 # Social/Academic Networking
