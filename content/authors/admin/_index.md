@@ -75,6 +75,6 @@ email: 'qyuan@amss.ac.cn'
 highlight_name: true
 ---
 
-I am currently an assistant professor at Academy of Mathematics and Systems Science, CAS, China. My research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently an assistant professor at Academy of Mathematics and Systems Science, CAS, China. My research interest is mainly focused on partial differential equations in fluid mechanics, in particular, the nonlinear stability of kinds of wave phenomena in gas dynamics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
