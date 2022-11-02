@@ -33,7 +33,7 @@ education:
     - course: MS in Mathematics
       institution: Nanjing University, China
       year: 2016
-    - course: BSc in Mathematics
+    - course: BS in Mathematics
       institution: Nanjing University, China
       year: 2012
 
