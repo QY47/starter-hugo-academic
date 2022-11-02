@@ -30,7 +30,7 @@ education:
     - course: PhD in Mathematics
       institution: The Chinese University of Hong Kong, Hong Kong, China
       year: 2019
-    - course: Master in Mathematics
+    - course: MS in Mathematics
       institution: Nanjing University, China
       year: 2016
     - course: BSc in Mathematics
