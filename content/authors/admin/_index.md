@@ -66,7 +66,7 @@ education:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/resume.pdf
+   link: http://www.amss.ac.cn/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'qyuan@amss.ac.cn'
